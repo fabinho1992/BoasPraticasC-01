@@ -1,0 +1,15 @@
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\bin\Debug\net7.0\Alura.Adopet.Console.exe
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\bin\Debug\net7.0\Alura.Adopet.Console.deps.json
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\bin\Debug\net7.0\Alura.Adopet.Console.runtimeconfig.json
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\bin\Debug\net7.0\Alura.Adopet.Console.dll
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\bin\Debug\net7.0\Alura.Adopet.Console.pdb
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.AssemblyInfoInputs.cache
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.AssemblyInfo.cs
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.csproj.CoreCompileInputs.cache
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.sourcelink.json
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.dll
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\refint\Alura.Adopet.Console.dll
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.pdb
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.genruntimeconfig.cache
+C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\ref\Alura.Adopet.Console.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Alura.Adopet.Console/1.0.0": {
+        "runtime": {
+          "Alura.Adopet.Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alura.Adopet.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
