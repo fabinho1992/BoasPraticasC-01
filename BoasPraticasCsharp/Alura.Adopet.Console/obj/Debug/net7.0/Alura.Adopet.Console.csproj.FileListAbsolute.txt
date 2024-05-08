@@ -13,3 +13,18 @@ C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\obj\
 C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.pdb
 C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.genruntimeconfig.cache
 C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\ref\Alura.Adopet.Console.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\bin\Debug\net7.0\Alura.Adopet.Console.exe
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\bin\Debug\net7.0\Alura.Adopet.Console.deps.json
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\bin\Debug\net7.0\Alura.Adopet.Console.runtimeconfig.json
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\bin\Debug\net7.0\Alura.Adopet.Console.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\bin\Debug\net7.0\Alura.Adopet.Console.pdb
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.sourcelink.json
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\refint\Alura.Adopet.Console.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.pdb
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\Alura.Adopet.Console.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.Console\obj\Debug\net7.0\ref\Alura.Adopet.Console.dll

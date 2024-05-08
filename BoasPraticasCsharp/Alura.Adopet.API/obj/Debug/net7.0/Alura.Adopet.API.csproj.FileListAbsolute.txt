@@ -38,3 +38,43 @@ C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debu
 C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\Alura.Adopet.API.pdb
 C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\Alura.Adopet.API.genruntimeconfig.cache
 C:\AulasAluraBackEnd\BoasPraticas01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\ref\Alura.Adopet.API.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Alura.Adopet.API.exe
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Alura.Adopet.API.deps.json
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Alura.Adopet.API.runtimeconfig.json
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Alura.Adopet.API.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Alura.Adopet.API.pdb
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\Alura.Adopet.API.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\Alura.Adopet.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\Alura.Adopet.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\Alura.Adopet.API.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\Alura.Adopet.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\Alura.Adopet.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\Alura.Adopet.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\Alura.Adopet.API.sourcelink.json
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\staticwebassets\msbuild.Alura.Adopet.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Alura.Adopet.API.props
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Alura.Adopet.API.props
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Alura.Adopet.API.props
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\scopedcss\bundle\Alura.Adopet.API.styles.css
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\Alura.Ad.EE83C11C.Up2Date
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\Alura.Adopet.API.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\refint\Alura.Adopet.API.dll
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\Alura.Adopet.API.pdb
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\Alura.Adopet.API.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\BoasPraticas01\BoasPraticasC-01\BoasPraticasCsharp\Alura.Adopet.API\obj\Debug\net7.0\ref\Alura.Adopet.API.dll

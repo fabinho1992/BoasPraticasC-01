@@ -13,8 +13,8 @@ try
 	switch (comando)
     {
         case "import":
-            var import = new import();
-            import.ImportacaoArquivoPetAsync(caminhoArquivoImportado: args[1]);
+            var import = new Import();
+            await import.ImportacaoArquivoPetAsync(caminhoArquivoImportado: args[1]);
 
             break;
         case "help":

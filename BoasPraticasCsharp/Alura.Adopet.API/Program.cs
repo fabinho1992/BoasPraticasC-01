@@ -5,7 +5,7 @@ using Alura.Adopet.API.Service;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-var builder = WebApplication.CreateBuilder(args);// Criando uma aplicação Web.
+var builder = WebApplication.CreateBuilder(args);// Criando uma aplicaï¿½ï¿½o Web.
 
 builder.Logging.ClearProviders();
 builder.Logging.AddConsole();
@@ -24,7 +24,7 @@ builder.Services.AddScoped<ClienteRepository>()
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-//Adicionando serviços.
+//Adicionando serviï¿½os.
 var serviceProvider = builder.Services.BuildServiceProvider();
 var eventoService = serviceProvider.GetService<IEventoService>();
 
@@ -74,5 +74,5 @@ app.UseSwaggerUI(
     }
 );
 
-// Roda a aplicação
+// Roda a aplicaï¿½ï¿½o
 app.Run();
